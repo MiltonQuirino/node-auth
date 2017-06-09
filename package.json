@@ -1,0 +1,22 @@
+{
+  "name": "node-auth-scotch",
+  "version": "1.0.0",
+  "description": "PassaportJs NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiltonQuirino/node-auth.git"
+  },
+  "keywords": [
+    "PassaportJs"
+  ],
+  "author": "Milton Quirino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiltonQuirino/node-auth/issues"
+  },
+  "homepage": "https://github.com/MiltonQuirino/node-auth#readme"
+}
