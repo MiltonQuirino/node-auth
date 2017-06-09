@@ -2,7 +2,7 @@
   "name": "node-auth-scotch",
   "version": "1.0.0",
   "description": "PassaportJs NodeJs",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/MiltonQuirino/node-auth/issues"
   },
-  "homepage": "https://github.com/MiltonQuirino/node-auth#readme"
+  "homepage": "https://github.com/MiltonQuirino/node-auth#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jsonwebtoken": "^7.4.1",
+    "mongoose": "^4.10.5",
+    "morgan": "^1.8.2"
+  }
 }
